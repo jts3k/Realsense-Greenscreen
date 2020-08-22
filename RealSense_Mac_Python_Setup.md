@@ -1,3 +1,5 @@
+These instructions were based on the steps I found [here](https://github.com/IntelRealSense/librealsense/issues/5275), shared by [sean ng pack](https://github.com/seanngpack), with some things I added that made it work for me.  See the video tutorial [here](https://www.youtube.com/watch?v=hWLC78L-FdE&t=1844s).
+
 The following steps are done in the Mac Terminal.
 
 1. Install Homebrew if you don't have it already
